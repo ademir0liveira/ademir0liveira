@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ademir0liveira
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python
-- 📫 How to reach me ...
+
 
 <!---
 ademir0liveira/ademir0liveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
